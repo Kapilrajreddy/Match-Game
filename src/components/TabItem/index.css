@@ -1,0 +1,13 @@
+.tab-item-name {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-size: 24px;
+
+  color: #fff;
+}
+.active-tab{
+    text-decoration: underline;
+    color:#fec653;
+}

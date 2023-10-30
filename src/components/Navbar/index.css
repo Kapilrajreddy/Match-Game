@@ -1,0 +1,47 @@
+.navbar-main-container {
+  display: flex;
+  align-items: center;
+  background-color: #2c0e3a;
+  padding: 1% 5%;
+  justify-content: space-between;
+  width: 100%;
+}
+.website-logo {
+  width: 180px;
+}
+.navbar-score-and-time-container {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.navbar-score-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.navbar-timer-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.navbar-score-name {
+  font-size: 24px;
+  color: #ffffff;
+  margin: 0px;
+}
+.navbar-score-count {
+  font-size: 24px;
+  color: #fec653;
+  margin: 0px;
+  font-weight: 600;
+}
+.navbar-timer-icon-image {
+  width: 24px;
+  height: 24px;
+}
+.navbar-timer-count {
+  font-size: 24px;
+  color: #fec653;
+  margin: 0px;
+  font-weight: 600;
+}
